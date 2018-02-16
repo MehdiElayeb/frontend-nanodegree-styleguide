@@ -10,6 +10,7 @@ body {
     text-rendering: optimizeLegibility;
     margin: 1.5em;
     -webkit-font-smoothing: antialiased;
+    background-color: #8c7ae6;
 }
 
 nav {
